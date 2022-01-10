@@ -1,0 +1,26 @@
+{
+   7f607c4f4ad1a2bd61358bdf0e96565aafb74d22f555e4d1cd065192: {
+      ACADA: {
+         description: "ActivADA Reward token",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "ACADA",
+               src: "ipfs://QmU3bBEhAWVnGnuMacvzWKRifjcUhoXvM2cCgiSe2bDQ1h"
+            }
+         ],
+         image: "ipfs://QmU3bBEhAWVnGnuMacvzWKRifjcUhoXvM2cCgiSe2bDQ1h",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 50273388,
+            type: "time-lock-policy"
+         },
+         name: "ActivADA",
+         symbol: "ACADA",
+         tokenType: "token",
+         totalSupply: 100000000
+      }
+   },
+   version: "1.0"
+}
